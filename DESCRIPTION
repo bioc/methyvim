@@ -1,6 +1,6 @@
 Package: methyvim
 Title: Targeted, Robust, and Model-free Differential Methylation Analysis
-Version: 1.11.0
+Version: 1.11.1
 Authors@R: c(
   person("Nima", "Hejazi", email = "nh@nimahejazi.org",
          role = c("aut", "cre", "cph"),
@@ -74,3 +74,4 @@ biocViews:
   DifferentialMethylation,
   MethylationArray,
   MethylSeq
+PackageStatus: Deprecated
